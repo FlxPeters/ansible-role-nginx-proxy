@@ -1,5 +1,7 @@
-Role Name
+FlxPeters.nginx-proxy
 =========
+
+[![Build Status](https://travis-ci.org/FlxPeters/ansible-role-nginx-proxy.svg?branch=master)](https://travis-ci.org/FlxPeters/ansible-role-nginx-proxy)
 
 Installs Nginx as reverse proxy on Ubuntu. This role is a wrapper with some defaults for [geerlingguy.nginx](https://github.com/geerlingguy/ansible-role-nginx).
 

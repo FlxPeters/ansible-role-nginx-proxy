@@ -1,7 +1,7 @@
 ---
 - hosts: all
   roles:
-    - role: ansible_role_nginx_proxy
+    - role: ansible-role-nginx-proxy
 
   tasks:
     - name: Install netstat for testing

@@ -13,7 +13,7 @@ The Role is tested for Ubuntu 16.04.
 Role Variables
 --------------
 
-`nginx_proxy_pass`: The proxy pass for the Nginx location  
+`nginx_proxy_pass`: The proxy pass for the Nginx location. Default is `http://localhost:8080` for Tomcat servers.
 
 Dependencies
 ------------
